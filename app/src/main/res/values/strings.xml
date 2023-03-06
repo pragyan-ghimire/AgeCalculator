@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="btn_date_of_birth_hint">Select Date of Birth</string>
+    <string name="btn_age_text">Calculate Age</string>
+</resources>
